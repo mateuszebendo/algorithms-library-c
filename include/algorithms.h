@@ -1,10 +1,6 @@
-//
-// Created by zeze on 23/08/24.
-//
+#ifndef ALGORITHMS_LIBRARY_H
+#define ALGORITHMS_H
 
-#ifndef ALGORITHMSLIB_H
-#define ALGORITHMSLIB_H
+int binary_search(int target, int *array, int array_size);
 
-
-
-#endif //ALGORITHMSLIB_H
+#endif //ALGORITHMS_LIBRARY_H
